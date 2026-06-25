@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&width=650&height=90&lines=hey%2C+i'm+Oluwaseyi+Emmanuel+%F0%9F%91%8B;Full+Stack+Engineer+%7C+DevOps+%7C+Builder;if+it+can+be+shipped%2C+i'll+ship+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&width=650&height=90&lines=hey%2C+i'm+Oluwaseyi+Emmanuel+%F0%9F%91%8B;Full+Stack+Engineer+%7C+DevOps+%7C+Builder;if+it+obeys+a+fixed+law%2C+it's+software!.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%">
 
@@ -13,12 +13,15 @@
 
 ---
 
-### who i am
+### who i am not
 
-full stack software engineer with 3+ years building and shipping real products — from fintech backends to student platforms to multi-tenant SaaS.
-i do the whole stack: design the API, write the frontend, containerize it, deploy it, monitor it.
+i'm not the guy that builds apps with features — i build apps that engineer high-speed workarounds for real-world problems.
+i don't stop at "it works on my machine."
+i'm not the engineer who picks a framework because it's trending. well, may be a little :| 
+i'm not a frontend guy who sprinkles some backend, or a backend guy who avoids CSS like a disease — i do the whole thing, end to end, and i care about all of it.
 
-i'm also an Aeronautical & Astronautical Engineering graduate from **Lagos State University** 🛩️ — which means i approach software the same way i'd approach a flight system: with precision, redundancy, and zero tolerance for avoidable failure.
+Like I build flight systems in my sleep, i approach building software the same way: with precision, redundancy, and zero tolerance for avoidable failure.
+<kbd>Aerospace Engineering</kbd> grad by the way
 
 currently: **Backend Developer Intern @ TradeLenda**, working on P2P delivery infrastructure and high-volume banking systems.
 
