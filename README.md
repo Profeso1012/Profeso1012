@@ -16,8 +16,11 @@
 ### who i am not
 
 i'm not the guy that builds apps with features — i build apps that engineer high-speed workarounds for real-world problems.
+
 i don't stop at "it works on my machine."
+
 i'm not the engineer who picks a framework because it's trending. well, may be a little :| 
+
 i'm not a frontend guy who sprinkles some backend, or a backend guy who avoids CSS like a disease — i do the whole thing, end to end, and i care about all of it.
 
 Like I build flight systems in my sleep, i approach building software the same way: with precision, redundancy, and zero tolerance for avoidable failure.
