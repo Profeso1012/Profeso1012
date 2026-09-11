@@ -99,7 +99,7 @@ a few highlights:
 
 ### when i'm not coding
 
-🎸 guitar &nbsp;|&nbsp; 🎹 piano &nbsp;|&nbsp; ♟️ chess &nbsp;|&nbsp; 🏀 basketball &nbsp;|&nbsp; 🎮 video games &nbsp;|&nbsp; 🎨 art
+🎸 guitar &nbsp;|&nbsp; ♟️ chess &nbsp;|&nbsp; 🏀 basketball &nbsp;|&nbsp; 🎮 video games &nbsp;|&nbsp; 🎨 art
 
 a little bit of everything. i've always been that way.
 
